@@ -12,8 +12,8 @@ def download_video(url, path):
 
 
 def download_func(option):
+    choice = option
     while True:
-        choice = option
         # Video
         if choice == "1":
             url = input("Enter an url for the video\n")
@@ -32,4 +32,5 @@ def download_func(option):
             break
         else:
             print("Try choosing a correct option")
+            choice = input("1/2 ").upper()
             continue
