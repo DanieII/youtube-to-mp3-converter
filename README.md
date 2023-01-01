@@ -5,15 +5,15 @@ A Python script that converts a YouTube video or a playlist into a MP3 file and 
 - `Download a single video` 
 
 <p>
-  <img src="screenshots/Screenshot_5.png" width="450" height="250" hspace="50">
-  <img src="screenshots/Screenshot_8.png" width="350" height="250">
+ <img src="screenshots/Screenshot_5.png" width="350" height="150" hspace="20">
+ <img src="screenshots/Screenshot_8.png" width="250" height="150">
 </p>
 
 - `Download a playlist`
 
 <p>
-  <img src="screenshots/Screenshot_6.png" width="600" height="250" hspace="50">
-  <img src="screenshots/Screenshot_7.png" width="300" height="250">
+  <img src="screenshots/Screenshot_6.png" width="480" height="200" hspace="20">
+  <img src="screenshots/Screenshot_7.png" width="200" height="200">
 </p>
 
 ## Error message
